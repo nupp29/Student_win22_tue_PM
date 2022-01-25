@@ -5,7 +5,7 @@
 package student_win22_tue_pm;
 
 /*
-Date : 25th January, 2022
+Date : 25 January, 2022
 Author : Nupur Patel 
 */
 
